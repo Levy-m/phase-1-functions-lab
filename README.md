@@ -41,15 +41,12 @@ open the files in Visual Studio Code.
 
 To complete all of your work assignments, you'll need to write four functions:
 
-- `distanceFromHqInBlocks`: Returns the number of blocks from Scuber's
-  headquarters to the pickup location.
-
-  ```js
+ js```
+distanceFromHqInBlocks: Returns the number of blocks from Scuber's headquarters to the pickup location.
   function distanceFromHqInBlocks(someValue) {
     //returns the number of blocks given a value
   }
   ```
-
 - `distanceFromHqInFeet`: Returns the number of feet from Scuber's headquarters
   to the pickup location. Use your `distanceFromHqInBlocks` function to
   help return the correct value here. Try something like this:
